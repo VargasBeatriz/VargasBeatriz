@@ -22,7 +22,7 @@
 <img align="center" alt="html5" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 </div><br/>
 
-Passionate about challenges and technology, always looking for the discomfort zone.
+Passionate about challenges and technology, always looking for the discomfort zone. 💜
 
 ## LinkedIn: 
 https://www.linkedin.com/in/vargasbeatriz/
